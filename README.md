@@ -5,3 +5,6 @@ Here are the steps to run the application:
 1. In the root of the application run docker-compose up -d
 2. http://localhost:3000. This will return the text 'Hello World'
 3. http://localhost:3000/home. This will return a html document.
+4. To shutdown the application run docker-compose down.
+
+I am running the application on Ubuntu 18.04.4.
